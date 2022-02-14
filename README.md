@@ -12,7 +12,7 @@ I program mainly in C / C ++, Java and Python, with a focus on Java backend, wit
 * SQL and NoSQL
 
 ##### I'm currently working on:
-* Associate Software Engineer at Accenture
+* Full Java Developer at DB1 Group
 
 
 ##### Programming languages I know:
