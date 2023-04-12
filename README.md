@@ -28,7 +28,7 @@ I program mainly in C / C ++, Java and Python, with a focus on Java backend, wit
 <br />
 
 ##### More about me:
-* 23 y/o
+* 24 y/o
 * Music lover
 * Books lover
 
