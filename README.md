@@ -12,7 +12,7 @@ I program mainly in C / C ++, Java and Python, with a focus on Java backend, wit
 * SQL and NoSQL
 
 ##### I'm currently working on:
-* Mid Java Developer
+* Senior Developer
 
 
 ##### Programming languages I know:
@@ -28,7 +28,7 @@ I program mainly in C / C ++, Java and Python, with a focus on Java backend, wit
 <br />
 
 ##### More about me:
-* 24 y/o
+* 26 y/o
 * Music lover
 * Books lover
 
